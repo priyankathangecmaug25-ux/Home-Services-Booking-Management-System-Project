@@ -4,16 +4,16 @@ A full-stack web application designed to help users book home services such as p
 Admins can manage services, view bookings and handle payments.
 Built using Spring Boot, React, MySQL, and REST APIs.
 
-👤 User Features
+👤 User Features-
 User registration & login (JWT authentication)
 View available home services
 Book a service with date, time.
 
-🛠️ Admin Features
+🛠️ Admin Features-
 Manage services (Add, Update, Delete)
 View all user bookings
 
-💰 Payment Features
+💰 Payment Features-
 Online payment simulation
 Payment success & failure handling
 Payment record management
