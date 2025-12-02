@@ -5,31 +5,31 @@ Admins can manage services, view bookings and handle payments.
 Built using Spring Boot, React, MySQL, and REST APIs.
 
 👤 User Features-
-User registration & login (JWT authentication)
-View available home services
+User registration & login (JWT authentication),
+View available home services,
 Book a service with date, time.
 
 🛠️ Admin Features-
-Manage services (Add, Update, Delete)
+Manage services (Add, Update, Delete),
 View all user bookings
 
 💰 Payment Features-
-Online payment simulation
-Payment success & failure handling
+Online payment simulation,
+Payment success & failure handling,
 Payment record management
 
 🧰 Tech Stack
 
 -Backend
-Java 21
-Spring Boot
-Spring Data JPA
-MySQL
-Spring Security + JWT
+Java 21,
+Spring Boot,
+Spring Data JPA,
+MySQL,
+Spring Security + JWT,
 Maven
 
 -Frontend
-React.js
-React Bootstrap / Bootstrap
-Axios
+React.js,
+React Bootstrap / Bootstrap,
+Axios,
 React Router
